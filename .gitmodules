@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "col2hex2col"]
+	path = col2hex2col
+	url = https://github.com/anttirask/col2hex2col
